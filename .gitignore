@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings
+dependency-reduced-pom.xml
+target
+/jd-lib/src/main/resources/native
+/jd-lib/jd-intellij.zip
+*.versionsBackup
+/jd-cli-*.zip
+/jd-cli-*.tar.gz
+bin/
+**/*.releaseBackup
+release.properties
