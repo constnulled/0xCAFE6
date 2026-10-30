@@ -21,7 +21,7 @@
         <cfr.version>0.152</cfr.version>
         <vineflower.version>1.12.0</vineflower.version>
         <procyon.version>0.6.0</procyon.version>
-        <logback.version>1.6.5</logback.version>
+        <logback.version>1.6.6</logback.version>
         <jcommander.version>1.82</jcommander.version>
         <junit.version>4.13.2</junit.version>
     </properties>
